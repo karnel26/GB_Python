@@ -1,3 +1,5 @@
+#Task_2
+
 sek = int(input("Введите время в секундах \n"))
 hours = sek // 3600
 minutes = (sek - hours*3600) // 60
