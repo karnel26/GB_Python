@@ -1,4 +1,4 @@
-#Task_4  
+#Task_4   
 
 text = input("Введите текст \n")
 text = text.split()
