@@ -1,4 +1,4 @@
-#Task_1 
+#Task_1  
 
 my_list = ['alex', 'ivanov', 'moscow', 25, 1995, 84.5]
 for element in my_list:
